@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "DevOps and ML student"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    footercontent = "d351d3r"
     fixedbarContent = "Do you want to know me more private?→"
     fixedbarContentAfter = "Thank You! Please share it if you like it→"
 
@@ -65,9 +65,9 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
     url = "https://www.linkedin.com/in/anatolii-cherednichenko/"
 [[params.social]]
-    name = "LinkedIn"
+    name = "CV"
     weight = 4
-    url = "https://www.linkedin.com/in/anatolii-cherednichenko/"
+    url = "https://github.com/d351d3r/My-Resume-LaTeX"
 
             [[menu.main]]
                 name = "About"
